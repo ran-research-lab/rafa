@@ -1,3 +1,0 @@
-/tmp/rafa/CMakeFiles/rebuild_cache.dir
-/tmp/rafa/CMakeFiles/edit_cache.dir
-/tmp/rafa/CMakeFiles/main.dir
