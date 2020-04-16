@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: CMake the project
+        run: cmake .
       - name: Build Code
         run: make
       - name: Nominal Run
