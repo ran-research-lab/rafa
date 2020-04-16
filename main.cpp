@@ -4,5 +4,5 @@
 using namespace std;
 int main(int argc, char** argv)
 {
-xcout << "hw"<< endl;
+cout << "hw"<< endl;
 }
